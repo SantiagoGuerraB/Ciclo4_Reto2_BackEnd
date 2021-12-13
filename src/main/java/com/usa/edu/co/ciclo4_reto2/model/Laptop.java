@@ -18,7 +18,7 @@ public class Laptop {
     private String procesor;
     private String os;
     private String description;
-    private String memory;
+    private String memory;  
     private String hardDrive;
     private boolean availability = true;
     private double price;
